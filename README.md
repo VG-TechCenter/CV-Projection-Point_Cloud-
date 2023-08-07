@@ -1,4 +1,4 @@
 # CV-Projection-Point_Cloud-
 机器视觉点云模型投影仿真成像
-![1](https://github.com/Kylin-TechCenter/CV-Projection-Point_Cloud-/assets/109327979/21c043c9-8b7d-4e28-b80f-43767eae59a0)
-![2](https://github.com/Kylin-TechCenter/CV-Projection-Point_Cloud-/assets/109327979/1babfc60-51f9-44cd-bd9f-6d98ae5d2409)
+![1](https://github.com/VG-TechCenter/CV-Projection-Point_Cloud-/assets/109327979/f3045ea1-f2d8-48f7-b73f-066647a19ca6)
+![2](https://github.com/VG-TechCenter/CV-Projection-Point_Cloud-/assets/109327979/2ce963da-f07a-4a11-abfc-8784aa065c74)
